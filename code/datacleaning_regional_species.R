@@ -1,4 +1,4 @@
-# Clean & prep data for regional multi-species species ss modeling
+# Clean & prep data for regional species ss modeling
 # Jordan DiNardo
 
 rm(list=ls())
